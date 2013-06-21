@@ -1,0 +1,15 @@
+<snippet>
+  <content><![CDATA[
+
+//
+// ## ${2:methodName} `${2:methodName}(${3:args})`
+//
+// ${4:TODO: Description.}
+//
+static v8::Handle<v8::Value> ${2:methodName}(const v8::Arguments& args);
+
+]]></content>
+  <tabTrigger>decl_node_addon_method</tabTrigger>
+  <scope>source.c++</scope>
+  <description>Node Addon Method Declaration</description>
+</snippet>

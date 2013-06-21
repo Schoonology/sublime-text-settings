@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[if (typeof ${1:callback} === 'function') {
+  ${1:callback}(${2:err, data})
+}]]></content>
+    <tabTrigger>fire</tabTrigger>
+    <scope>source.js</scope>
+    <description>Fire Callback</description>
+</snippet>

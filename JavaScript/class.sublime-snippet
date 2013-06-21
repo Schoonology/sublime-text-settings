@@ -1,0 +1,31 @@
+<snippet>
+  <content><![CDATA[
+/*!
+ * ${2:TODO: Description.}
+ */
+${3}
+
+/**
+ * Creates a new instance of ${1:ClassName} with the provided `options`.
+ *
+ * @param {Object} obj${11}
+ */
+function ${1:ClassName}(obj) {
+  if (!(this instanceof ${1:ClassName})) {
+    return new ${1:ClassName}(obj);
+  }
+
+  obj = obj || {}
+
+  ${10}
+}
+${0}
+/*!
+ * Export `${1:ClassName}`.
+ */
+module.exports = ${1:ClassName}
+]]></content>
+  <tabTrigger>class</tabTrigger>
+  <!-- <scope>source.js</scope> -->
+  <description>Class Module</description>
+</snippet>

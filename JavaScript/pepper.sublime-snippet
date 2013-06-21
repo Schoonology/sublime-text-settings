@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+console.log('PEPPER', ${0:$TM_LINE_NUMBER})
+]]></content>
+  <tabTrigger>pepper</tabTrigger>
+  <scope>source.js</scope>
+  <description>Pepper with Log</description>
+</snippet>

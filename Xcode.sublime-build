@@ -1,0 +1,4 @@
+{
+  "cmd": ["xcodebuild"],
+  "working_dir": "${project_path}"
+}

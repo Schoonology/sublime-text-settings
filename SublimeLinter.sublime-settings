@@ -1,0 +1,12 @@
+{
+    "sublimelinter": "load-save",
+
+    // jshint: options for linting JavaScript. See http://jshint.com/#docs for more info.
+    // By deault, eval is allowed.
+
+    // Set to true to highlight annotations
+    "sublimelinter_notes": true,
+
+    // The set of annotation phrases to highlight
+    "annotations": ["TODO", "HACK"]
+}
