@@ -8,14 +8,14 @@ ${3}
 /**
  * Creates a new instance of ${1:ClassName} with the provided `options`.
  *
- * @param {Object} obj${11}
+ * @param {Object} options${11}
  */
-function ${1:ClassName}(obj) {
+function ${1:ClassName}(options) {
   if (!(this instanceof ${1:ClassName})) {
-    return new ${1:ClassName}(obj);
+    return new ${1:ClassName}(options)${5}
   }
 
-  obj = obj || {}
+  options = options || {}${5}
 
   ${10}
 }
@@ -23,7 +23,7 @@ ${0}
 /*!
  * Export `${1:ClassName}`.
  */
-module.exports = ${1:ClassName}
+module.exports = ${1:ClassName}${5}
 ]]></content>
   <tabTrigger>class</tabTrigger>
   <!-- <scope>source.js</scope> -->

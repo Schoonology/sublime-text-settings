@@ -4,13 +4,13 @@
 /**
  * ${4:TODO: Description.}
  */
-${1:ClassName}.${2:methodName} = ${2:methodName}
+${1:ClassName}.${2:methodName} = ${2:methodName}${5}
 function ${2:methodName}(${3:callback}) {
-  var cls = this
+  var cls = this${5}
 
   ${0}
 
-  return cls
+  return cls${5}
 }
 
 ]]></content>

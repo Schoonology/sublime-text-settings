@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-module.exports = {${0}}
+module.exports = {${0}}${1}
 ]]></content>
   <tabTrigger>module</tabTrigger>
   <!-- <scope>source.js</scope> -->
