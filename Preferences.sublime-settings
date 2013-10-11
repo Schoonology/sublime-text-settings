@@ -2,7 +2,7 @@
 	"auto_complete": true,
 	"auto_complete_commit_on_tab": false,
 	"auto_complete_delay": 50,
-	"auto_complete_selector": "source - comment",
+	"auto_complete_selector": "source - comment, meta.tag - punctuation.definition.tag.begin",
 	"auto_complete_size_limit": 4194304,
 	"auto_complete_triggers":
 	[
@@ -84,16 +84,14 @@
 	"font_options":
 	[
 	],
-	"font_size": 14.0,
+	"font_size": 12.0,
 	"gutter": true,
 	"highlight_line": false,
 	"highlight_modified_tabs": true,
 	"hot_exit": true,
 	"ignored_packages":
 	[
-		"Vintage",
-		"SublimeTODO",
-		"ZenCoding"
+		"Vintage"
 	],
 	"indent_guide_options":
 	[

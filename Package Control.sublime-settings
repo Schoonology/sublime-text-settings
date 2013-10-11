@@ -2,16 +2,13 @@
 	"auto_upgrade_last_run": null,
 	"installed_packages":
 	[
-		"AdvancedNewFile",
 		"DocBlockr",
 		"Emmet",
 		"Git",
-		"Http Requester",
 		"JsFormat",
-		"Markdown Preview",
+		"LESS",
 		"Package Control",
-		"Pretty JSON",
-		"SublimeLinter",
-		"Terminal"
+		"Rust",
+		"SublimeLinter"
 	]
 }
