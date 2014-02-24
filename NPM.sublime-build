@@ -1,0 +1,5 @@
+{
+  "cmd": ["npm", "test"],
+  "selector": "source.javascript",
+  "working_dir": "${project_path:${folder}}"
+}
