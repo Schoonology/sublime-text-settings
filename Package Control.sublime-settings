@@ -5,10 +5,13 @@
 		"DocBlockr",
 		"Emmet",
 		"Git",
+		"GitHub Flavored Markdown Preview",
 		"JsFormat",
 		"LESS",
 		"Package Control",
+		"ReactJS",
 		"Rust",
-		"SublimeLinter"
+		"SublimeLinter",
+		"TypeScript"
 	]
 }
