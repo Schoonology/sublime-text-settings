@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+#!/bin/bash
+set -evuo pipefail
+IFS=\$'\n\t'
+
+
+]]></content>
+  <description>Strict Mode (Bash)</description>
+</snippet>
